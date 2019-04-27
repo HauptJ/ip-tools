@@ -13,7 +13,7 @@
     <body>
         <?php
         //include the ad
-        include("ad.php");
+        //include("ad.php");
 
         //include the nav bar
         include("navBar.php");

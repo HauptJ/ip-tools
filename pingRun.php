@@ -50,6 +50,6 @@ If ($submit == "Ping!") {
         echo '</pre>';
     }
 } else {
-    include("testFiller.php");
+    //include("testFiller.php");
 }
 ?> 

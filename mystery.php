@@ -2,7 +2,7 @@
 //mystery.php
 //Josh
 //26.7.14
-//Desc: displays troll video
+//Desc: displays a video
 ?>
 
 <html>
@@ -16,9 +16,6 @@
     <body>
         
         <?php 
-        //include teh ad
-        include("ad.php");
-        
         //include the awsome nav bar
         include("navBar.php"); 
         ?>
@@ -29,13 +26,13 @@
             <script type='text/javascript'>
                 src="https://jwpsrv.com/library/3ADBggl8EeSvuyIACtqXBA.js";
                 jwplayer('playerAbAaKnKdHGmU').setup({
-                    file: 'http://sandbox2.jnh.bz/videos/trololo.mp4',
-                    image: 'http://sandbox2.jnh.bz/videos/trololo.jpg',
-                    title: 'Trololo',
-                    width: '640',
-                    height: '360',
-                    autostart: 'true',
-                    repeat: 'true'
+                    file: '/videos/ed_hd.mp4',
+                    image: '/videos/ed_cover.jpg',
+                    title: 'Elephants Dream',
+                    width: '560',
+                    height: '315',
+                    autostart: 'false',
+                    repeat: 'false'
                 });
             </script>
         </div>

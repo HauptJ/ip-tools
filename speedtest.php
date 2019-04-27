@@ -11,8 +11,6 @@ Coming soon... maybe....
     <body>
         
         <?php 
-        //include the super awsome ad
-        include("ad.php");
 
         //incude the lovely nav bar
         include("navBar.php"); 

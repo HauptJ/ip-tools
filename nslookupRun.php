@@ -27,7 +27,5 @@ If ($submit == "NsLookup!") {
 
     echo '</pre>';
     echo 'done ...';
-} else {
-    include("testFiller.php");
-}
+} 
 ?>

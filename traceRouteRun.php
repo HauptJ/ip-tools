@@ -30,7 +30,5 @@ If ($submit == "Traceroute!") {
 
     echo '</pre>';
     echo 'done ...';
-} else {
-    include("testFiller.php");
-}
+} 
 ?>

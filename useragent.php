@@ -11,8 +11,6 @@ I'll think about adding something here later.
     <body>
         
         <?php 
-        //include the lovely ad
-        include("ad.php");
 
         //include the lovely nav bar
         include("navBar.php"); 
