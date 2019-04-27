@@ -10,8 +10,6 @@ Portscan comming soon... Hopefully.....
     </head>
     <body>
         <?php 
-        //include teh ad
-        //include("ad.php");
         
         //include teh awsome nav bar
         include("navBar.php"); 

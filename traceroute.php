@@ -11,8 +11,6 @@ Coming soon... Hopefully... If I don't forget...
     <body>
         
         <?php 
-        //include the lovely ad again
-        //include("ad.php");
 
         //include the lovely nav bar yet again
         include("navBar.php"); 

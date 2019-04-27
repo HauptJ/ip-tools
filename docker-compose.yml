@@ -1,0 +1,15 @@
+version: '3'
+services:
+  nginx:
+    restart: always
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: ip-tools
+    ports:
+      - "8080:80"
+    healthcheck:
+      test: curl --fail -s http://localhost:8080/index.php || exit 1
+      interval: 1m30s
+      timeout: 10s
+      retries: 3

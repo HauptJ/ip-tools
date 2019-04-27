@@ -16,9 +16,6 @@
     <body>
         
         <?php 
-        //include teh ad
-        //include("ad.php");
-        
         //include the awsome nav bar
         include("navBar.php"); 
         ?>
@@ -34,8 +31,8 @@
                     title: 'Elephants Dream',
                     width: '560',
                     height: '315',
-                    autostart: 'true',
-                    repeat: 'true'
+                    autostart: 'false',
+                    repeat: 'false'
                 });
             </script>
         </div>
