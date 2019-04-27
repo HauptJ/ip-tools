@@ -11,7 +11,7 @@ Portscan comming soon... Hopefully.....
     <body>
         <?php 
         //include teh ad
-        include("ad.php");
+        //include("ad.php");
         
         //include teh awsome nav bar
         include("navBar.php"); 

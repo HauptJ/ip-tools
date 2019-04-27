@@ -12,7 +12,7 @@ Coming soon... maybe....
         
         <?php 
         //include the super awsome ad
-        include("ad.php");
+        //include("ad.php");
 
         //incude the lovely nav bar
         include("navBar.php"); 
