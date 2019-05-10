@@ -31,7 +31,7 @@
         <a href="source.php" title="Source Code">Source Code</a>
     </li>
     <li>
-        <a href="mystery.php" title="Mystery Link">Mystery Link</a>
+        <a href="video.php" title="Video">HTML5 Video</a>
     </li>
 </ul>
 
