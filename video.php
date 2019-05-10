@@ -8,7 +8,7 @@
 <html>
     <head>
         <meta charset="UTF-8">
-        <title>Trololo</title>
+        <title>Elephants Dream</title>
         <script src="https://jwpsrv.com/library/3ADBggl8EeSvuyIACtqXBA.js"></script>
         <link rel="stylesheet" type="text/css" href="style.css">
 
@@ -20,7 +20,6 @@
         include("navBar.php"); 
         ?>
 
-        <!--Play the funky music white boi-->
         <div id ='main'>
             <div id='playerAbAaKnKdHGmU'></div>
             <script type='text/javascript'>
